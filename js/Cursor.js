@@ -1,4 +1,4 @@
-define(['CursorFunctions'], function (cf) {
+define(['bower_components/wingspan-cursor/js/CursorFunctions'], function (cf) {
     'use strict';
 
 

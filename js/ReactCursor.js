@@ -1,4 +1,4 @@
-define(['react', 'underscore', 'CursorFunctions'], function (ReactWithAddons, _, cf) {
+define(['react', 'underscore', 'bower_components/wingspan-cursor/js/CursorFunctions'], function (ReactWithAddons, _, cf) {
     'use strict';
 
 
