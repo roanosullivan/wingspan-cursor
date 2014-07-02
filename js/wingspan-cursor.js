@@ -1,5 +1,5 @@
 define([
-    'bower_components/wingspan-cursor/js/Cursor', 'bower_components/wingspan-cursor/js/ReactCursor'
+    'assets/wingspan-cursor/js/Cursor', 'assets/wingspan-cursor/js/ReactCursor'
 ], function (Cursor, ReactCursor) {
     'use strict';
 
